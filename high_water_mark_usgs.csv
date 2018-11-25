@@ -1,0 +1,388 @@
+id,county,flood_type,flood_type_sub,elevation,lat,long,report_no
+KLAC-01-14,Jefferson,Levee , Interior,-1.2,29.893883,-90.144871,Jeffers-1
+KLAC-01-15,Jefferson,Levee , Interior,1.2,29.876847,-90.134363,Jeffers-2
+KLAC-01-16,Jefferson,Levee , Interior,2.4,29.76864,-90.082523,Jeffers-3
+KLAC-01-17,Jefferson,Levee , Interior,-1.8,29.854061,-90.070304,Jeffers-4
+KLAC-02-35,Jefferson,Coastal , Surge Only,5.8,29.265225,-89.957349,Jeffers-5
+KLAC-02-36,Jefferson,Coastal , Surge Only,8.5,29.241738,-89.978814,Jeffers-6
+KLAC-03-30,Jefferson,Levee , Interior,5.5,29.999022,-90.284746,Jeffers-7
+KLAC-04-07,Jefferson,Levee , Interior,-4.3,30.042867,-90.274929,Jeffers-8
+KLAC-04-08,Jefferson,Levee , Interior,-4.1,30.019869,-90.274156,Jeffers-9
+KLAC-04-09,Jefferson,Levee , Interior,-4,30.023151,-90.265552,Jeffers-10
+KLAC-04-10,Jefferson,Coastal , Wave Runup,9.4,30.040061,-90.23809,Jeffers-11
+KLAC-04-11,Jefferson,Coastal , Wave Runup,11.6,30.032774,-90.219619,Jeffers-12
+KLAC-04-12,Jefferson,Levee , Interior,-3.6,30.011045,-90.195617,Jeffers-13
+KLAC-04-13,Jefferson,Levee , Interior,-3.9,29.9948,-90.19442,Jeffers-14
+KLAC-04-14,Jefferson,Levee , Interior,-3.7,29.984246,-90.198763,Jeffers-15
+KLAC-04-15,Jefferson,Levee , Interior,-3.8,29.99597,-90.21629,Jeffers-16
+KLAC-04-33,Jefferson,Coastal , Wave Runup,8.5,30.049191,-90.27667,Jeffers-17
+KLAC-04-34,Jefferson,Coastal , Wave Runup,9.4,30.04081,-90.243065,Jeffers-18
+KLAC-04-35,Jefferson,Coastal , Wave Runup,6.8,30.027021,-90.198977,Jeffers-19
+KLAC-05-10,Jefferson,Levee , Interior,0.4,29.884566,-90.099468,Jeffers-20
+KLAC-05-11,Jefferson,Levee , Interior,0.9,29.875315,-90.1099,Jeffers-21
+KLAC-05-12,Jefferson,Levee , Interior,0.4,29.854456,-90.11716,Jeffers-22
+KLAC-05-14,Jefferson,Levee , Interior,-4.3,29.894341,-90.014498,Jeffers-23
+KLAC-05-15,Jefferson,Levee , Interior,-3.7,29.906414,-90.02241,Jeffers-24
+KLAC-05-16,Jefferson,Levee , Interior,-5.7,29.879582,-90.034295,Jeffers-25
+KLAC-06-10,Jefferson,Riverine , Hurricane,17.9,29.965889,-90.258175,Jeffers-26
+KLAC-06-11,Jefferson,Riverine , Hurricane,17.9,29.917806,-90.141784,Jeffers-27
+KLAC-06-13,Jefferson,Levee , Interior,-3.6,29.897037,-90.206959,Jeffers-28
+KLAC-07-14,Jefferson,Levee , Interior,-3.4,30.02291,-90.187433,Jeffers-29
+KLAC-07-15,Jefferson,Levee , Interior,-3.5,30.020022,-90.174296,Jeffers-30
+KLAC-07-16,Jefferson,Levee , Interior,-3.6,30.018831,-90.159174,Jeffers-31
+KLAC-07-18,Jefferson,Levee , Break,2.4,29.983684,-90.142651,Jeffers-32
+KLAC-07-19,Jefferson,Levee , Break,2.5,29.976499,-90.140491,Jeffers-33
+KLAC-07-20,Jefferson,Levee , Break,2.6,29.976465,-90.126808,Jeffers-34
+KLAC-07-21,Jefferson,Levee , Interior,-3.2,30.012813,-90.123723,Jeffers-35
+KLAC-07-23,Jefferson,Levee , Interior,-3.3,30.016298,-90.143372,Jeffers-36
+KLAC-07-24,Jefferson,Levee , Interior,-3.1,30.011497,-90.134864,Jeffers-37
+KLAC-07-25,Jefferson,Levee , Interior,-3.3,30.014168,-90.168266,Jeffers-38
+KLAC-07-28,Jefferson,Levee , Interior,-3.8,30.014035,-90.185925,Jeffers-39
+KLAC-07-29,Jefferson,Levee , Interior,-3.6,29.989979,-90.164545,Jeffers-40
+KLAC-07-30,Jefferson,Levee , Interior,-3.4,29.992,-90.157755,Jeffers-41
+KLAC-07-31,Jefferson,Levee , Interior,1.5,29.960933,-90.210735,Jeffers-42
+KLAC-07-32,Jefferson,Levee , Interior,4.3,29.956418,-90.219183,Jeffers-43
+KLAC-08-01,Jefferson,Coastal , Surge Only,8.6,29.208757,-90.033853,Jeffers-44
+KLAC-26-01,Jefferson,Coastal , Surge Only,7.6,29.260584,-89.96317,Jeffers-45
+KLAC-88-04,Jefferson,Coastal , Surge Only,6.6,30.040939,-90.238578,Jeffers-46
+KLAC-88-05,Jefferson,Coastal , Surge Only,10.9,30.02101,-90.122967,Jeffers-47
+KLAC-03-01,Lafourche,Coastal , Surge Only,8.9,29.211475,-90.051541,Lafourc-1
+KLAC-03-02,Lafourche,Coastal , Surge Only,7.5,29.156245,-90.180386,Lafourc-2
+KLAC-08-02,Lafourche,Coastal , Surge Only,4.1,29.257687,-90.214356,Lafourc-3
+KLAC-02-06,Livingston,Coastal , Surge Only,3.1,30.262079,-90.646197,Livings-1
+KLAC-02-07,Livingston,Coastal , Surge Only,2.8,30.261999,-90.647581,Livings-2
+KLAC-02-08,Livingston,Coastal , Surge Only,3.3,30.263901,-90.623945,Livings-3
+KLAC-02-09,Livingston,Coastal , Surge Only,5.4,30.310067,-90.602358,Livings-4
+KLAC-07-01,Livingston,Riverine , Hurricane,4,30.271941,-90.751523,Livings-5
+KLAC-01-18,Orleans,Levee , Break,2.6,29.993873,-90.100315,Orleans-1
+KLAC-01-19,Orleans,Levee , Break,2.6,29.993859,-90.117045,Orleans-2
+KLAC-01-20,Orleans,Levee , Break,0.7,29.986634,-90.102085,Orleans-3
+KLAC-01-21,Orleans,Levee , Break,2.4,29.986863,-90.087302,Orleans-4
+KLAC-01-22,Orleans,Levee , Break,2.1,29.991654,-90.084224,Orleans-5
+KLAC-01-23,Orleans,Levee , Break,2.4,29.972796,-90.091926,Orleans-6
+KLAC-01-24,Orleans,Levee , Break,1.8,29.991871,-90.076471,Orleans-7
+KLAC-01-25,Orleans,Levee , Break,2.8,29.978922,-90.067231,Orleans-8
+KLAC-01-26,Orleans,Levee , Break,2.4,29.968307,-90.066752,Orleans-9
+KLAC-01-27,Orleans,Levee , Break,2.4,29.979253,-90.075412,Orleans-10
+KLAC-01-28,Orleans,Levee , Break,2.7,29.987004,-90.082823,Orleans-11
+KLAC-01-29,Orleans,Levee , Break,3.1,29.984352,-90.122208,Orleans-12
+KLAC-01-30,Orleans,Levee , Break,2.5,29.94219,-90.084509,Orleans-13
+KLAC-01-31,Orleans,Levee , Break,1.2,29.93639,-90.088888,Orleans-14
+KLAC-01-32,Orleans,Levee , Break,2.6,29.927393,-90.094766,Orleans-15
+KLAC-01-33,Orleans,Levee , Break,2.3,29.942651,-90.07796,Orleans-16
+KLAC-01-34,Orleans,Levee , Break,7.2,29.960985,-90.020957,Orleans-17
+KLAC-01-35,Orleans,Levee , Break,10.3,29.95319,-90.01082,Orleans-18
+KLAC-01-39,Orleans,Levee , Break,7.5,29.962709,-90.013226,Orleans-19
+KLAC-01-40,Orleans,Levee , Break,8.7,29.954032,-90.015063,Orleans-20
+KLAC-02-10,Orleans,Levee , Break,2.1,29.990358,-90.11005,Orleans-21
+KLAC-02-11,Orleans,Levee , Break,1.9,29.985831,-90.110528,Orleans-22
+KLAC-02-12,Orleans,Levee , Break,2.9,30.018905,-90.095364,Orleans-23
+KLAC-02-13,Orleans,Levee , Break,1.6,30.01902,-90.097882,Orleans-24
+KLAC-02-14,Orleans,Levee , Break,1.4,30.023763,-90.097788,Orleans-25
+KLAC-02-15,Orleans,Levee , Break,2.2,30.021567,-90.112928,Orleans-26
+KLAC-02-16,Orleans,Coastal , Wave Runup,10.7,30.023155,-90.113175,Orleans-27
+KLAC-02-17,Orleans,Coastal , Wave Runup,14.5,30.026717,-90.108023,Orleans-28
+KLAC-02-18,Orleans,Coastal , Wave Runup,12.9,30.027252,-90.098456,Orleans-29
+KLAC-02-19,Orleans,Levee , Break,2.3,30.025849,-90.111054,Orleans-30
+KLAC-02-20,Orleans,Levee , Break,1.8,30.021737,-90.099432,Orleans-31
+KLAC-02-21,Orleans,Levee , Break,1.7,30.019575,-90.098801,Orleans-32
+KLAC-02-22,Orleans,Coastal , Wave Runup,12.6,30.027855,-90.089186,Orleans-33
+KLAC-02-23,Orleans,Levee , Break,2.2,29.94129,-90.123572,Orleans-34
+KLAC-02-24,Orleans,Levee , Break,1.5,29.933939,-90.112644,Orleans-35
+KLAC-02-25,Orleans,Levee , Break,2.1,29.935016,-90.096632,Orleans-36
+KLAC-02-26,Orleans,Levee , Break,1.4,29.927913,-90.096958,Orleans-37
+KLAC-02-27,Orleans,Levee , Break,2.5,29.93878,-90.109033,Orleans-38
+KLAC-02-28,Orleans,Levee , Break,2.5,29.933777,-90.102596,Orleans-39
+KLAC-03-11,Orleans,Levee , Break,2.4,29.991046,-90.109842,Orleans-40
+KLAC-03-12,Orleans,Levee , Break,2.4,29.982494,-90.109802,Orleans-41
+KLAC-03-14,Orleans,Levee , Break,2.4,30.020426,-90.104834,Orleans-42
+KLAC-03-15,Orleans,Levee , Break,2.2,30.023225,-90.101497,Orleans-43
+KLAC-03-16,Orleans,Levee , Break,2.8,29.999931,-90.089522,Orleans-44
+KLAC-03-17,Orleans,Levee , Break,2.3,30.004097,-90.098971,Orleans-45
+KLAC-03-18,Orleans,Levee , Break,2.6,29.994576,-90.100559,Orleans-46
+KLAC-03-19,Orleans,Levee , Break,1.4,30.020791,-90.08381,Orleans-47
+KLAC-03-20,Orleans,Levee , Break,2.1,30.024105,-90.083555,Orleans-48
+KLAC-03-21,Orleans,Levee , Break,2.6,29.943609,-90.097165,Orleans-49
+KLAC-03-22,Orleans,Levee , Break,2.5,29.94463,-90.103927,Orleans-50
+KLAC-03-23,Orleans,Levee , Break,1.5,29.941178,-90.107024,Orleans-51
+KLAC-03-25,Orleans,Levee , Break,2.4,29.945435,-90.12432,Orleans-52
+KLAC-04-16,Orleans,Levee , Break,1.3,30.027518,-90.054973,Orleans-53
+KLAC-04-18,Orleans,Coastal , Wave Runup,16.6,30.033719,-90.041892,Orleans-54
+KLAC-04-19,Orleans,Levee , Break,2.3,29.987848,-90.067639,Orleans-55
+KLAC-04-20,Orleans,Levee , Break,2.5,29.97066,-90.077545,Orleans-56
+KLAC-04-21,Orleans,Levee , Break,1.5,29.982684,-90.090947,Orleans-57
+KLAC-04-22,Orleans,Levee , Break,2.4,29.975356,-90.08398,Orleans-58
+KLAC-04-23,Orleans,Levee , Break,3,29.936543,-90.092225,Orleans-59
+KLAC-04-24,Orleans,Levee , Break,1.8,29.942776,-90.093619,Orleans-60
+KLAC-04-25,Orleans,Levee , Break,1,29.932419,-90.087119,Orleans-61
+KLAC-04-26,Orleans,Levee , Break,1.7,29.936553,-90.081185,Orleans-62
+KLAC-05-19,Orleans,Levee , Break,2.8,29.995878,-90.078121,Orleans-63
+KLAC-05-20,Orleans,Levee , Break,2.6,30.001183,-90.081248,Orleans-64
+KLAC-05-21,Orleans,Levee , Break,1.5,30.007019,-90.082341,Orleans-65
+KLAC-05-22,Orleans,Levee , Break,2.8,30.012504,-90.07696,Orleans-66
+KLAC-05-23,Orleans,Levee , Break,1.4,30.016459,-90.07517,Orleans-67
+KLAC-05-24,Orleans,Levee , Break,2.9,30.007128,-90.070245,Orleans-68
+KLAC-05-25,Orleans,Levee , Break,2.8,30.000777,-90.072038,Orleans-69
+KLAC-05-26,Orleans,Levee , Break,2.7,29.995359,-90.068977,Orleans-70
+KLAC-05-27,Orleans,Levee , Break,3,29.998317,-90.064052,Orleans-71
+KLAC-05-28,Orleans,Levee , Break,1.9,30.000915,-90.064341,Orleans-72
+KLAC-05-30,Orleans,Coastal , Wave Runup,15.3,30.031421,-90.038513,Orleans-73
+KLAC-05-31,Orleans,Levee , Break,-1.3,30.029053,-89.992436,Orleans-74
+KLAC-05-32,Orleans,Levee , Break,-1.3,30.02746,-90.000252,Orleans-75
+KLAC-05-33,Orleans,Levee , Break,-1.4,30.032334,-89.973003,Orleans-76
+KLAC-05-34,Orleans,Levee , Break,-1.6,30.033226,-89.968415,Orleans-77
+KLAC-05-35,Orleans,Levee , Break,-1.4,30.040248,-89.961665,Orleans-78
+KLAC-05-36,Orleans,Levee , Break,-1.4,30.033504,-89.951188,Orleans-79
+KLAC-05-37,Orleans,Levee , Break,-1.1,30.041876,-89.95063,Orleans-80
+KLAC-06-25,Orleans,Levee , Break,-1.4,30.033022,-90.025296,Orleans-81
+KLAC-06-26,Orleans,Levee , Break,0.7,30.036767,-90.014753,Orleans-82
+KLAC-06-27,Orleans,Coastal , Surge Only,12,30.036884,-90.014808,Orleans-83
+KLAC-06-28,Orleans,Levee , Break,-1.4,30.043497,-89.995622,Orleans-84
+KLAC-06-29,Orleans,Levee , Break,-1.6,30.049428,-89.983252,Orleans-85
+KLAC-06-30,Orleans,Levee , Interior,-1.6,30.056162,-89.970125,Orleans-86
+KLAC-06-31,Orleans,Levee , Break,-1.9,30.065669,-89.955639,Orleans-87
+KLAC-06-32,Orleans,Levee , Break,0.3,30.074338,-89.944923,Orleans-88
+KLAC-06-33,Orleans,Levee , Break,-2.2,30.056748,-89.945215,Orleans-89
+KLAC-06-34,Orleans,Levee , Break,-1.5,30.048059,-89.959128,Orleans-90
+KLAC-06-35,Orleans,Levee , Break,-1.5,30.038429,-89.977054,Orleans-91
+KLAC-06-36,Orleans,Levee , Break,-1.5,30.031377,-89.994363,Orleans-92
+KLAC-06-37,Orleans,Levee , Break,-1.4,30.02766,-90.015203,Orleans-93
+KLAC-06-38,Orleans,Levee , Break,-1.6,30.017828,-89.98284,Orleans-94
+KLAC-06-49,Orleans,Levee , Break,2.8,30.014536,-89.999017,Orleans-95
+KLAC-06-50,Orleans,Levee , Break,-1.4,30.021934,-89.959512,Orleans-96
+KLAC-06-51,Orleans,Levee , Break,2.5,30.008423,-89.992803,Orleans-97
+KLAC-06-52,Orleans,Levee , Break,2,30.018307,-89.930539,Orleans-98
+KLAC-07-33,Orleans,Levee , Break,2.7,29.966548,-90.038379,Orleans-99
+KLAC-07-34,Orleans,Levee , Break,2.7,29.968528,-90.048521,Orleans-100
+KLAC-07-35,Orleans,Levee , Break,2.7,29.970246,-90.057182,Orleans-101
+KLAC-07-36,Orleans,Levee , Break,2.6,29.976899,-90.05716,Orleans-102
+KLAC-07-37,Orleans,Levee , Break,1.4,29.982597,-90.057495,Orleans-103
+KLAC-07-38,Orleans,Levee , Break,3.4,29.990477,-90.057982,Orleans-104
+KLAC-07-39,Orleans,Levee , Break,2.6,29.980149,-90.048693,Orleans-105
+KLAC-07-40,Orleans,Levee , Break,3.2,29.989839,-90.049453,Orleans-106
+KLAC-07-41,Orleans,Levee , Break,2.6,29.974059,-90.049001,Orleans-107
+KLAC-07-42,Orleans,Levee , Break,2.8,29.971987,-90.038794,Orleans-108
+KLAC-07-43,Orleans,Levee , Break,2.6,29.969304,-90.029645,Orleans-109
+KLAC-07-44,Orleans,Levee , Break,2.6,29.964977,-90.029156,Orleans-110
+KLAC-07-45,Orleans,Levee , Break,1.9,29.978703,-90.029617,Orleans-111
+KLAC-07-46,Orleans,Levee , Break,2.6,29.979128,-90.036583,Orleans-112
+KLAC-07-47,Orleans,Levee , Break,3,29.965862,-90.041988,Orleans-113
+KLAC-07-48,Orleans,Levee , Break,3,29.967949,-90.057066,Orleans-114
+KLAC-07-49,Orleans,Levee , Break,2.7,29.94674,-90.07496,Orleans-115
+KLAC-07-50,Orleans,Levee , Break,2,29.950163,-90.087857,Orleans-116
+KLAC-07-51,Orleans,Levee , Break,2.6,29.962029,-90.09445,Orleans-117
+KLAC-07-52,Orleans,Levee , Break,2.4,29.955977,-90.09587,Orleans-118
+KLAC-07-53,Orleans,Levee , Break,2.7,29.948563,-90.094213,Orleans-119
+KLAC-07-54,Orleans,Levee , Break,2.5,29.955683,-90.073097,Orleans-120
+KLAC-07-55,Orleans,Levee , Break,2.6,29.950951,-90.075724,Orleans-121
+KLAC-07-56,Orleans,Levee , Break,2.8,29.955626,-90.086697,Orleans-122
+KLAC-07-57,Orleans,Levee , Break,2.5,29.961796,-90.082197,Orleans-123
+KLAC-07-58,Orleans,Levee , Break,2.5,29.957368,-90.069406,Orleans-124
+KLAC-08-19,Orleans,Levee , Break,-1.4,30.026014,-90.025569,Orleans-125
+KLAC-08-20,Orleans,Levee , Break,-1.4,30.028813,-90.014087,Orleans-126
+KLAC-08-21,Orleans,Levee , Break,-2,30.033235,-90.003006,Orleans-127
+KLAC-08-22,Orleans,Levee , Break,-3.8,30.062793,-89.948767,Orleans-128
+KLAC-08-23,Orleans,Levee , Break,-1.8,30.068128,-89.940925,Orleans-129
+KLAC-08-24,Orleans,Levee , Break,-2,30.038939,-89.988281,Orleans-130
+KLAC-08-25,Orleans,Levee , Break,-1.5,30.046632,-89.972388,Orleans-131
+KLAC-08-26,Orleans,Levee , Break,-1.5,30.058282,-89.955038,Orleans-132
+KLAC-08-27,Orleans,Levee , Break,-1.5,30.017604,-90.021657,Orleans-133
+KLAC-09-02,Orleans,Levee , Break,1.9,30.025492,-90.056868,Orleans-134
+KLAC-09-03,Orleans,Levee , Break,1.4,30.021333,-90.075571,Orleans-135
+KLAC-09-04,Orleans,Levee , Break,1.4,30.019022,-90.08994,Orleans-136
+KLAC-09-05,Orleans,Levee , Break,2.8,30.003373,-90.095982,Orleans-137
+KLAC-09-06,Orleans,Levee , Break,1.9,30.002844,-90.054981,Orleans-138
+KLAC-09-07,Orleans,Levee , Break,1.4,30.008381,-90.055428,Orleans-139
+KLAC-09-08,Orleans,Levee , Break,1.8,30.002958,-90.046459,Orleans-140
+KLAC-09-09,Orleans,Levee , Break,1.7,30.010685,-90.047117,Orleans-141
+KLAC-09-10,Orleans,Levee , Break,1.7,29.99718,-90.054532,Orleans-142
+KLAC-09-11,Orleans,Levee , Break,1.4,29.993101,-90.039379,Orleans-143
+KLAC-09-12,Orleans,Levee , Break,2.4,29.967512,-90.111703,Orleans-144
+KLAC-09-13,Orleans,Levee , Break,1.8,29.967078,-90.119451,Orleans-145
+KLAC-09-14,Orleans,Levee , Break,2,29.966981,-90.127291,Orleans-146
+KLAC-09-15,Orleans,Levee , Break,2.6,29.960412,-90.119374,Orleans-147
+KLAC-09-16,Orleans,Levee , Break,2.2,29.961058,-90.111858,Orleans-148
+KLAC-09-17,Orleans,Levee , Break,2.5,29.95875,-90.10313,Orleans-149
+KLAC-09-18,Orleans,Levee , Break,2,29.954072,-90.103905,Orleans-150
+KLAC-09-19,Orleans,Levee , Break,1.4,29.95107,-90.108852,Orleans-151
+KLAC-09-20,Orleans,Levee , Break,2.5,29.951726,-90.118797,Orleans-152
+KLAC-09-21,Orleans,Levee , Break,1.8,29.953681,-90.127727,Orleans-153
+KLAC-09-22,Orleans,Levee , Break,2.7,29.962238,-90.127849,Orleans-154
+KLAC-88-03,Orleans,Coastal , Surge Only,15,30.000991,-89.940955,Orleans-155
+KLAC-88-06,Orleans,Coastal , Surge Only,11.8,30.029783,-90.091199,Orleans-156
+KLAC-88-07,Orleans,Coastal , Surge Only,11.8,30.033801,-90.040233,Orleans-157
+KLAC-88-08,Orleans,Coastal , Wave Height,13.8,30.057677,-89.969006,Orleans-158
+KLAC-88-15,Orleans,Coastal , Wave Height,13,30.057932,-89.968537,Orleans-159
+KLAC-88-20,Orleans,Coastal , Surge Only,11.4,30.03679,-90.017013,Orleans-160
+KLAC-99-01,Orleans,Coastal , Wave Runup,11.7,30.041787,-90.023215,Orleans-161
+KLRL-27-05,Orleans,Levee , Break,11.6,29.960971,-90.026233,Orleans-162
+KLAC-06-15,Plaquemines,Coastal , Surge Only,11.9,29.524854,-89.739953,Plaquem-4
+KLAC-06-17,Plaquemines,Coastal , Surge Only,3.2,29.638149,-89.948467,Plaquem-5
+KLAC-05-17,Plaquemines,Coastal , Surge Only,2.9,29.74339,-90.024501,Plaquem-1
+KLAC-06-14,Plaquemines,Coastal , Wave Runup,13.2,29.480648,-89.693675,Plaquem-3
+,,,,,,,
+KLAC-05-18,Plaquemines,Riverine , Hurricane,16.3,29.81729,-90.006881,Plaquem-2
+KLAC-06-18,Plaquemines,Riverine , Hurricane,17,29.697418,-89.982336,Plaquem-6
+KLAC-08-11,Plaquemines,Coastal , Wave Runup,5.9,29.527769,-89.762985,Plaquem-16
+KLAC-08-12,Plaquemines,Coastal , Wave Runup,5.8,29.54315,-89.779094,Plaquem-17
+KLAC-08-09,Plaquemines,Riverine , Hurricane,3,29.543527,-89.778084,Plaquem-14
+KLAC-06-20,Plaquemines,Coastal , Surge Only,12.5,29.540295,-89.752529,Plaquem-8
+KLAC-06-21,Plaquemines,Coastal , Surge Only,12,29.585034,-89.806325,Plaquem-9
+KLAC-06-22,Plaquemines,Coastal , Surge Only,13.7,29.615051,-89.882991,Plaquem-10
+KLAC-06-23,Plaquemines,Coastal , Surge Only,16.1,29.647733,-89.945611,Plaquem-11
+KLAC-06-19,Plaquemines,Coastal , Surge Only,5.4,29.747804,-90.023973,Plaquem-7
+KLAC-06-24,Plaquemines,Coastal , Surge Only,4.3,29.718877,-89.98194,Plaquem-12
+KLAC-08-08,Plaquemines,Coastal , Surge Only,7.1,29.522635,-89.740998,Plaquem-13
+,,,,,,,
+KLAC-08-10,Plaquemines,Coastal , Surge Only,8.3,29.518947,-89.732026,Plaquem-15
+,,,,,,,
+KLAC-08-17,Plaquemines,Coastal , Surge Only,8.9,29.648495,-89.944562,Plaquem-22
+KLAC-08-13,Plaquemines,Coastal , Surge Only,0.4,29.625983,-89.949704,Plaquem-18
+KLAC-08-14,Plaquemines,Coastal , Surge Only,4.2,29.625942,-89.950431,Plaquem-19
+KLAC-08-15,Plaquemines,Coastal , Surge Only,15.7,29.593466,-89.811625,Plaquem-20
+KLAC-08-16,Plaquemines,Coastal , Surge Only,13.6,29.624711,-89.878333,Plaquem-21
+,,,,,,,
+KLAC-08-18,Plaquemines,Coastal , Surge Only,16.2,29.648567,-89.944674,Plaquem-23
+KLAC-29-01,Plaquemines,Coastal , Surge Only,5.1,29.273584,-89.354106,Plaquem-24
+KLAC-29-02,Plaquemines,Coastal , Surge Only,4.4,29.290896,-89.368476,Plaquem-25
+KLAC-29-03,Plaquemines,Coastal , Surge Only,4.8,29.318055,-89.388678,Plaquem-26
+KLAC-29-04,Plaquemines,Coastal , Surge Only,6.5,29.336085,-89.406724,Plaquem-27
+KLAC-29-05,Plaquemines,Coastal , Surge Only,7.3,29.352654,-89.440705,Plaquem-28
+KLAC-29-07,Plaquemines,Coastal , Surge Only,2.4,29.367829,-89.569263,Plaquem-29
+KLAC-01-36,St. Bernard,Levee , Break,10.4,29.9548,-90.003893,St. Ber-1
+KLAC-01-37,St. Bernard,Levee , Break,8.6,29.954864,-89.994656,St. Ber-2
+KLAC-01-38,St. Bernard,Levee , Break,10.4,29.95069,-90.006295,St. Ber-3
+KLAC-02-29,St. Bernard,Levee , Break,10.9,29.930352,-89.930483,St. Ber-4
+KLAC-02-30,St. Bernard,Levee , Break,10.6,29.931828,-89.935829,St. Ber-5
+KLAC-02-31,St. Bernard,Levee , Break,10.7,29.936127,-89.921286,St. Ber-6
+KLAC-02-32,St. Bernard,Levee , Break,10.9,29.946932,-89.921561,St. Ber-7
+KLAC-02-33,St. Bernard,Levee , Break,10.3,29.931295,-89.948093,St. Ber-8
+KLAC-02-34,St. Bernard,Levee , Break,10.5,29.937716,-89.960173,St. Ber-9
+KLAC-03-26,St. Bernard,Levee , Break,5.5,29.862818,-89.781835,St. Ber-10
+KLAC-04-27,St. Bernard,Levee , Break,4.1,29.967424,-90.01983,St. Ber-11
+KLAC-04-28,St. Bernard,Levee , Break,4.6,29.96594,-90.014121,St. Ber-12
+KLAC-04-29,St. Bernard,Levee , Break,3.9,29.963503,-90.00588,St. Ber-13
+KLAC-04-30,St. Bernard,Levee , Break,9.8,29.946767,-89.921476,St. Ber-14
+KLAC-04-31,St. Bernard,Levee , Break,10.5,29.970211,-89.997887,St. Ber-15
+KLAC-04-32,St. Bernard,Levee , Break,10,29.962731,-89.990968,St. Ber-16
+KLAC-05-38,St. Bernard,Levee , Break,11.3,29.907335,-89.906557,St. Ber-17
+KLAC-05-39,St. Bernard,Levee , Break,12.1,29.913047,-89.899305,St. Ber-18
+KLAC-05-40,St. Bernard,Levee , Break,11.4,29.905706,-89.895124,St. Ber-19
+KLAC-05-41,St. Bernard,Levee , Break,9.8,29.916301,-89.912116,St. Ber-20
+KLAC-05-42,St. Bernard,Levee , Break,10.8,29.922763,-89.902248,St. Ber-21
+KLAC-06-39,St. Bernard,Levee , Break,11,29.8669,-89.803919,St. Ber-22
+KLAC-06-40,St. Bernard,Levee , Break,11.6,29.867923,-89.825791,St. Ber-23
+KLAC-06-41,St. Bernard,Levee , Break,10.4,29.865145,-89.842511,St. Ber-24
+KLAC-06-42,St. Bernard,Levee , Break,10.2,29.868054,-89.864807,St. Ber-25
+KLAC-06-43,St. Bernard,Levee , Break,10.5,29.868316,-89.885116,St. Ber-26
+KLAC-06-44,St. Bernard,Levee , Break,10.6,29.879348,-89.895626,St. Ber-27
+KLAC-06-45,St. Bernard,Levee , Break,11,29.878557,-89.878265,St. Ber-28
+KLAC-06-46,St. Bernard,Levee , Break,10.3,29.873169,-89.867391,St. Ber-29
+KLAC-06-47,St. Bernard,Levee , Break,9.3,29.873593,-89.835018,St. Ber-30
+KLAC-06-48,St. Bernard,Levee , Break,11.8,29.877521,-89.812687,St. Ber-31
+KLAC-06-53,St. Bernard,Levee , Break,10.2,29.963679,-89.95261,St. Ber-32
+KLAC-06-54,St. Bernard,Levee , Break,11.6,29.981529,-89.945356,St. Ber-33
+KLAC-07-59,St. Bernard,Levee , Break,10,29.954119,-89.95851,St. Ber-34
+KLAC-07-60,St. Bernard,Levee , Break,10.3,29.958308,-89.965734,St. Ber-35
+KLAC-07-61,St. Bernard,Levee , Break,8.9,29.950363,-89.968375,St. Ber-36
+KLAC-07-62,St. Bernard,Levee , Break,10.7,29.945164,-89.971341,St. Ber-37
+KLAC-07-63,St. Bernard,Levee , Break,9.8,29.949174,-89.962772,St. Ber-38
+KLAC-07-64,St. Bernard,Levee , Break,10.2,29.942926,-89.965123,St. Ber-39
+KLAC-07-65,St. Bernard,Levee , Break,10.2,29.938115,-89.966792,St. Ber-40
+KLAC-07-66,St. Bernard,Levee , Break,10.6,29.940645,-89.974455,St. Ber-41
+KLAC-07-67,St. Bernard,Levee , Break,10.5,29.944681,-89.982199,St. Ber-42
+KLAC-07-68,St. Bernard,Levee , Break,10,29.952141,-89.979169,St. Ber-43
+KLAC-07-69,St. Bernard,Levee , Break,9.4,29.959332,-89.978905,St. Ber-44
+KLAC-07-70,St. Bernard,Levee , Break,10.8,29.968344,-89.985666,St. Ber-45
+KLAC-07-71,St. Bernard,Levee , Break,10.6,29.959404,-89.992553,St. Ber-46
+KLAC-07-72,St. Bernard,Levee , Break,10.5,29.950316,-89.993292,St. Ber-47
+KLAC-27-04,St. Bernard,Coastal , Surge Only,17.7,29.842576,-89.689238,St. Ber-48
+KLAC-88-01,St. Bernard,Coastal , Surge Only,12,29.86042,-89.913023,St. Ber-49
+KLAC-88-02,St. Bernard,Coastal , Surge Only,17.1,29.840585,-89.757925,St. Ber-50
+KLRL-27-01,St. Bernard,Coastal , Surge Only,10.6,29.894428,-89.898608,St. Ber-51
+KLRL-27-02,St. Bernard,Levee , Break,12.1,29.924996,-89.911154,St. Ber-52
+KLRL-27-03,St. Bernard,Levee , Break,11.6,29.94221,-89.952472,St. Ber-53
+KLRL-27-07,St. Bernard,Levee , Break,12.5,29.96317,-89.971364,St. Ber-54
+KLRL-28-01,St. Bernard,Levee , Break,11.5,29.919897,-89.906412,St. Ber-55
+KLRL-28-02,St. Bernard,Levee , Break,10.4,29.943974,-89.927901,St. Ber-56
+KLRL-28-03,St. Bernard,Levee , Break,11.5,29.958577,-89.97198,St. Ber-57
+KLRL-28-04,St. Bernard,Levee , Break,12.6,29.86857,-89.815673,St. Ber-58
+KLRL-28-05,St. Bernard,Levee , Break,14.4,29.916635,-89.896237,St. Ber-59
+KLRL-28-06,St. Bernard,Levee , Break,13,29.966306,-90.005487,St. Ber-60
+KLRL-28-07,St. Bernard,Levee , Break,11.1,29.963951,-90.000883,St. Ber-61
+KLRL-28-08,St. Bernard,Levee , Break,11.2,29.956537,-90.019127,St. Ber-62
+KLAC-02-02,St. Charles,Riverine , Hurricane,13.6,29.938693,-90.374965,St. Cha-1
+KLAC-02-03,St. Charles,Riverine , Hurricane,15.7,29.935227,-90.363427,St. Cha-2
+KLAC-02-04,St. Charles,Riverine , Hurricane,17.8,29.96386,-90.273558,St. Cha-3
+KLAC-02-05,St. Charles,Riverine , Hurricane,3.5,29.834727,-90.475951,St. Cha-4
+KLAC-03-29,St. Charles,Coastal , Surge Only,6.4,30.055665,-90.371799,St. Cha-5
+KLAC-03-31,St. Charles,Coastal , Surge Only,9.3,30.072671,-90.39937,St. Cha-6
+KLAC-20-01,St. Charles,Riverine , Hurricane,13.5,29.979332,-90.402671,St. Cha-7
+KLAC-20-03,St. James,Riverine , Hurricane,13.6,30.028047,-90.694202,St. Jam-1
+KLAC-03-06,St. John the Baptist,Coastal , Wave Height,6,30.281138,-90.399966,St. Joh-1
+KLAC-03-07,St. John the Baptist,Coastal , Surge Only,2.8,30.194538,-90.435975,St. Joh-2
+KLAC-03-09,St. John the Baptist,Coastal , Surge Only,3.9,30.101686,-90.42541,St. Joh-3
+KLAC-03-10,St. John the Baptist,Coastal , Surge Only,5.7,30.101597,-90.424877,St. Joh-4
+KLAC-20-02,St. John the Baptist,Riverine , Hurricane,12.9,30.044764,-90.549558,St. Joh-5
+KLAC-01-03,St. Tammany,Coastal , Wave Runup,7.6,30.309747,-89.939823,St. Tam-3
+KLAC-01-06,St. Tammany,Riverine , Hurricane,27.9,30.394586,-89.893528,St. Tam-5
+KLAC-01-01,St. Tammany,Coastal , Surge Only,9.7,30.301813,-89.938861,St. Tam-1
+KLAC-01-02,St. Tammany,Coastal , Surge Only,9.7,30.301163,-89.943654,St. Tam-2
+,,,,,,,
+KLAC-01-05,St. Tammany,Coastal , Surge Only,10.5,30.328688,-89.987372,St. Tam-4
+,,,,,,,
+KLAC-01-07,St. Tammany,Coastal , Surge Only,9.7,30.299328,-89.934764,St. Tam-6
+KLAC-01-09,St. Tammany,Coastal , Surge Only,9.7,30.293306,-89.935446,St. Tam-7
+KLAC-01-10,St. Tammany,Coastal , Surge Only,9.8,30.314372,-89.927285,St. Tam-8
+KLAC-01-11,St. Tammany,Coastal , Surge Only,9.6,30.331819,-89.945904,St. Tam-9
+KLAC-01-12,St. Tammany,Coastal , Surge Only,9.8,30.315155,-89.954774,St. Tam-10
+KLAC-01-13,St. Tammany,Coastal , Surge Only,10.8,30.326294,-89.984678,St. Tam-11
+KLAC-04-01,St. Tammany,Riverine , Hurricane,12.8,30.477691,-90.087241,St. Tam-12
+KLAC-04-02A,St. Tammany,Riverine , Hurricane,9.7,30.461502,-90.081745,St. Tam-13
+KLAC-04-02,St. Tammany,Riverine , Hurricane,6.1,30.460596,-90.082856,St. Tam-14
+KLAC-04-03,St. Tammany,Riverine , Hurricane,7.7,30.438345,-90.115926,St. Tam-15
+KLAC-04-04,St. Tammany,Riverine , Hurricane,8.1,30.437713,-90.11628,St. Tam-16
+KLAC-04-05,St. Tammany,Coastal , Surge Only,6.9,30.398989,-90.155788,St. Tam-17
+KLAC-05-01,St. Tammany,Coastal , Surge Only,13.2,30.219233,-89.819947,St. Tam-18
+KLAC-05-02,St. Tammany,Coastal , Surge Only,11.4,30.275539,-89.853008,St. Tam-19
+KLAC-05-03,St. Tammany,Coastal , Surge Only,11.2,30.278714,-89.838555,St. Tam-20
+KLAC-05-04,St. Tammany,Coastal , Surge Only,11,30.27216,-89.795137,St. Tam-21
+KLAC-05-05,St. Tammany,Coastal , Surge Only,10.5,30.272963,-89.794737,St. Tam-22
+KLAC-05-06,St. Tammany,Coastal , Surge Only,11.4,30.263776,-89.79352,St. Tam-23
+KLAC-05-07,St. Tammany,Coastal , Surge Only,15.3,30.195716,-89.756186,St. Tam-24
+KLAC-05-09,St. Tammany,Coastal , Surge Only,16,30.203851,-89.69958,St. Tam-25
+KLAC-05-43,St. Tammany,Coastal , Surge Only,7.8,30.389975,-90.205244,St. Tam-26
+KLAC-06-01,St. Tammany,Coastal , Surge Only,12.8,30.22262,-89.815969,St. Tam-27
+KLAC-06-04,St. Tammany,Coastal , Surge Only,12.1,30.285462,-89.728436,St. Tam-30
+KLAC-06-02,St. Tammany,Riverine , Hurricane,17.1,30.325798,-89.837902,St. Tam-28
+KLAC-06-03,St. Tammany,Riverine , Hurricane,12.6,30.309997,-89.779832,St. Tam-29
+KLAC-07-07,St. Tammany,Coastal , Wave Runup,6.6,30.364935,-90.091837,St. Tam-40
+KLAC-06-05,St. Tammany,Riverine , Hurricane,15.2,30.38148,-89.737359,St. Tam-31
+KLAC-06-06,St. Tammany,Riverine , Hurricane,15.2,30.384245,-89.734828,St. Tam-32
+KLAC-06-07,St. Tammany,Riverine , Hurricane,22.5,30.323686,-89.753897,St. Tam-33
+KLAC-06-08,St. Tammany,Coastal , Surge Only,12.4,30.247756,-89.763806,St. Tam-34
+KLAC-06-09,St. Tammany,Coastal , Surge Only,13.4,30.290653,-89.767705,St. Tam-35
+KLAC-07-02,St. Tammany,Coastal , Surge Only,8.8,30.351446,-90.050334,St. Tam-36
+KLAC-07-03,St. Tammany,Coastal , Surge Only,9.2,30.354669,-90.06762,St. Tam-37
+KLAC-07-04,St. Tammany,Coastal , Surge Only,9.3,30.35969,-90.07084,St. Tam-38
+KLAC-07-05,St. Tammany,Coastal , Surge Only,9.1,30.362328,-90.079797,St. Tam-39
+,,,,,,,
+KLAC-07-08,St. Tammany,Coastal , Surge Only,9.2,30.363178,-90.077562,St. Tam-41
+KLAC-07-09,St. Tammany,Coastal , Surge Only,10.3,30.357811,-90.065489,St. Tam-42
+KLAC-07-10,St. Tammany,Coastal , Surge Only,8.4,30.371039,-90.104908,St. Tam-43
+KLAC-07-11,St. Tammany,Coastal , Surge Only,7.8,30.396049,-90.121701,St. Tam-44
+KLAC-07-12,St. Tammany,Coastal , Surge Only,7.8,30.419672,-90.104286,St. Tam-45
+KLAC-07-13,St. Tammany,Coastal , Surge Only,9,30.425247,-90.08152,St. Tam-46
+KLAC-25-01,St. Tammany,Coastal , Surge Only,8,30.409188,-90.140448,St. Tam-47
+,,,,,,,
+KLAR-25-05,St. Tammany,Riverine , Hurricane,8.5,30.463462,-90.118189,St. Tam-48
+KLAR-26-01,St. Tammany,Riverine , Hurricane,18.2,30.499589,-90.084433,St. Tam-49
+KLAR-31-01,St. Tammany,Riverine , Hurricane,7.2,30.3031,-89.706707,St. Tam-50
+KLAC-03-03,Tangipahoa,Coastal , Surge Only,6,30.404156,-90.323376,Tangipa-1
+KLAC-03-04,Tangipahoa,Coastal , Surge Only,5.6,30.405803,-90.262036,Tangipa-2
+KLAC-03-05,Tangipahoa,Coastal , Surge Only,3.5,30.290135,-90.401377,Tangipa-3
+KLAC-02-01,Terrebonne,Coastal , Surge Only,2.1,29.469424,-90.559291,Terrebo-1
+KLAR-25-01,Washington,Riverine , Hurricane,95.2,30.720711,-90.083432,Washing-1
+KLAR-25-02,Washington,Riverine , Hurricane,67.4,30.76199,-89.831306,Washing-2
+KLAR-25-03,Washington,Riverine , Hurricane,62.4,30.703549,-89.848047,Washing-3
+KLAR-25-04,Washington,Riverine , Hurricane,76.5,30.670099,-90.001615,Washing-4
